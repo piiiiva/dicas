@@ -49,7 +49,7 @@
 
 `git add .gitignore`
 
-`git commit -m "Updated .gitignore file`
+`git commit -m "Updated .gitignore file"`
 
 `git push origin master`
 
