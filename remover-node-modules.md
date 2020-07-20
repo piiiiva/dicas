@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    Como remover a pasta node_modules no seu repositório do Github
+    Como remover o node_modules do seu repositório no Github
 </h1>
 
 <p>
